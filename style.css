@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://asset.kompas.com/crops/VkeCr-C3jEzbg_TUsUbB4HPSxyY=/0x0:1500x1000/750x500/data/photo/2022/03/07/6226092f9444d.jpg");
+    background-size: 40%;
+    background-position: top;
+    padding-top: 25%;
+    padding-bottom: 30%;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-color: #872341 ;
+    width: 100%;
+    margin: 0;
+
+}
+html{
+    margin: 0;
+    scroll-behavior: smooth;
+}
+section#gallery div img{
+    justify-content: space-around;
+}
+.nav-link {
+    color: #fff;
+  }
